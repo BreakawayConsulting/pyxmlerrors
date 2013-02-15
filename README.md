@@ -6,3 +6,5 @@ When you want to report an error to the user call `xml_error_str` passing elemen
 
 Checkout `test.py` for some usage examples.
 
+Feel free to take `pyxmlerrors.py` and simply drop it in to your project.
+
